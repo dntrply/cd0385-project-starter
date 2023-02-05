@@ -1,9 +1,9 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### NAME HERE
+#### Piyush Mehta
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-TODO: Add your explanation
+Negative results are not accepted. Any negative results need to be set to 0 (sero) prior to subnission
 
 ### What was the top ranked model that performed?
 TODO: Add your explanation
